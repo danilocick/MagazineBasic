@@ -4,6 +4,7 @@
 4,S. Lambert,1959,america,true
 5,N. Schroeder,1979,alemany,true
 6,V. Minkine,1971,japones,true
+OKEY GOOGLE SUCK MY DICK
 7,D. Bode,1967,holandes,true
 8,F. Perrier,1955,frances,true
 9,F. Treutnier,1980,rus,true
